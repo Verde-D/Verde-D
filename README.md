@@ -1,7 +1,9 @@
-# 💫 About Me:
+# 🤙 Hi I'm Diogo! Welcome!
+
+
 👨‍💻 I’m currently working as a Low-Code Software Developer<br>
 🌱 Learning on improving my skills on JavaScript and Python<br>
-🧑‍🎓Got my degree in Electrical and Computer Engineering at UBI University, Portugal<br>
+🧑‍🎓 Got my degree in Electrical and Computer Engineering at UBI University, Portugal<br>
 
 
 ## 🌐 Socials:
